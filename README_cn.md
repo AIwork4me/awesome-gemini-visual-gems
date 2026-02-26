@@ -2,16 +2,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Gemini](https://img.shields.io/badge/Made%20with-Gemini-8E75B2)](https://gemini.google.com)
-[![Prompts](https://img.shields.io/badge/风格-14-blue)](prompts/)
+[![Prompts](https://img.shields.io/badge/风格-15-blue)](prompts/)
 [![English](https://img.shields.io/badge/README-English-brightgreen)](README.md)
 
-> **14款实战验证的 Google Gemini 视觉设计提示词** —— 将任意文本精准转化为让人忍不住多看两眼的病毒式视觉图。
+> **15款实战验证的 Google Gemini 视觉设计提示词** —— 将任意文本精准转化为让人忍不住多看两眼的病毒式视觉图。
 
 ---
 
 ## 这是什么？
 
-**Gemini Gems** 是可以配置在 Google Gemini 中的自定义指令，将 AI 转化为特定领域的专家。本仓库提供 **14款精心设计的 Gem 指令**，专门用于将任意文本内容转化为高质量、易传播的视觉 Infographic。
+**Gemini Gems** 是可以配置在 Google Gemini 中的自定义指令，将 AI 转化为特定领域的专家。本仓库提供 **15款精心设计的 Gem 指令**，专门用于将任意文本内容转化为高质量、易传播的视觉 Infographic。
 
 这些提示词特别针对具有强大**文字渲染**和**指令遵循**能力的 Gemini 模型（如最新迭代版本）进行了优化。每条提示词都遵循严格的 V2.1 模板结构，确保：
 
@@ -34,7 +34,7 @@
 
 ```text
 📦 Awesome-Gemini-Visual-Gems
- ┣ 📂 prompts/           # 14 Gem instruction files (.md)
+ ┣ 📂 prompts/           # 15 Gem instruction files (.md)
  ┣ 📂 assets/            # Demo images & QR code
  ┣ 📜 README.md          # English documentation
  ┗ 📜 README_cn.md       # 中文说明文档
@@ -78,7 +78,7 @@
 
 ---
 
-## 14款视觉风格
+## 15款视觉风格
 
 | 视觉风格 (Gem Name) | 适用场景 | 样例图片 |
 |:--|:--|:--:|
@@ -96,6 +96,7 @@
 | ⬛ [**12. 新粗野主义**](prompts/12_Neo_Brutalism.md) | 犀利观点输出、打破常规的设计、潮流先锋 | <img src="assets/12_neo_brutalism_demo.jpg" width="250" alt="demo"> |
 | 💥 [**13. 复古波普美漫风**](prompts/13_Retro_Pop_Art.md) | 传统与现代的戏剧性冲突、夸张的痛点引入 | <img src="assets/13_retro_pop_art_demo.jpg" width="250" alt="demo"> |
 | 💿 [**14. 酸性金属流体**](prompts/14_Acid_Graphics_Y2K.md) | 地下电音文化、数字游民生活方式、艺术展 | <img src="assets/14_acid_graphics_y2k_demo.jpg" width="250" alt="demo"> |
+| 🔮 [**15. 酸性科技几何**](prompts/15_Acid_Tech_Geometry.md) | AI架构可视化、SaaS流程图解、数据安全、抽象科技概念具象化 | <img src="assets/15_acid_tech_geometry_demo.png" width="250" alt="demo"> |
 
 ---
 
@@ -113,7 +114,7 @@
 【Interaction】        → 用户交互开场白
 ```
 
-这确保了 14 种风格都能输出**一致、可预测**的高质量结果。
+这确保了 15 种风格都能输出**一致、可预测**的高质量结果。
 
 ---
 
