@@ -2,16 +2,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Gemini](https://img.shields.io/badge/Made%20with-Gemini-8E75B2)](https://gemini.google.com)
-[![Prompts](https://img.shields.io/badge/Styles-19-blue)](prompts/)
+[![Prompts](https://img.shields.io/badge/Styles-20-blue)](prompts/)
 [![中文文档](https://img.shields.io/badge/README-中文-brightgreen)](README_cn.md)
 
-> **19 Battle-Tested Visual Designer Prompts for Google Gemini** — Transform any text into scroll-stopping infographics with surgical precision.
+> **20 Battle-Tested Visual Designer Prompts for Google Gemini** — Transform any text into scroll-stopping infographics with surgical precision.
 
 ---
 
 ## What is This?
 
-**Gemini Gems** are custom instructions that transform Google Gemini into a specialized expert. This repository provides **19 professionally engineered Gem instructions** designed to convert any text into viral-ready visual infographics.
+**Gemini Gems** are custom instructions that transform Google Gemini into a specialized expert. This repository provides **20 professionally engineered Gem instructions** designed to convert any text into viral-ready visual infographics.
 
 These prompts are specifically optimized for Gemini models with strong **text-rendering** and **prompt-adherence** capabilities (like the latest iterations). Each prompt follows a rigorous V2.1 template structure that ensures:
 
@@ -34,7 +34,7 @@ These prompts are specifically optimized for Gemini models with strong **text-re
 
 ```text
 📦 Awesome-Gemini-Visual-Gems
- ┣ 📂 prompts/           # 19 Gem instruction files (.md)
+ ┣ 📂 prompts/           # 20 Gem instruction files (.md)
  ┣ 📂 assets/            # Demo images & QR code
  ┣ 📜 README.md          # English documentation
  ┗ 📜 README_cn.md       # 中文说明文档
@@ -78,7 +78,7 @@ Chat with your new Gem. Send any text content, specify your preferred aspect rat
 
 ---
 
-## The 19 Visual Styles
+## The 20 Visual Styles
 
 | Style (Gem Name) | Best For (Use Case) | Demo |
 |:--|:--|:--:|
@@ -101,6 +101,7 @@ Chat with your new Gem. Send any text content, specify your preferred aspect rat
 | 📄 [**17. Paper Diagrams**](prompts/17_Paper_Diagrams.md) | Academic paper methodology, NeurIPS/ICML diagrams, scientific illustrations, architecture figures | <img src="assets/17_Paper_Diagrams.png" width="250" alt="demo"> |
 | 🧬 [**18. Lancet Scientific Illustrator**](prompts/18_Lancet_Scientific_Illustrator.md) | Medical visualizations, disease mechanisms, pharmacology, signaling pathways, publication-ready scientific illustrations | <img src="assets/18_Lancet_Scientific_Illustrator.png" width="250" alt="demo"> |
 | 🎨 [**19. Cute Flat Hand Drawn**](prompts/19_Cute_Flat_Hand_drawn.md) | Business SOPs, workflow diagrams, kawaii-style infographics, data visualization | <img src="assets/19_Cute_Flat_Hand_drawn.png" width="250" alt="demo"> |
+| ✏️ [**20. Whiteboard Explainer**](prompts/20_Whiteboard_Explainer.md) | Technical training, coding logic breakdowns, AI concept explainers, meeting whiteboard sketches | <img src="assets/20_Whiteboard_Explainer.png" width="250" alt="demo"> |
 
 ---
 
@@ -118,7 +119,7 @@ Each Gem follows a battle-tested structure:
 【Interaction】        → User-facing greeting
 ```
 
-This ensures **consistent, predictable output** across all 19 styles.
+This ensures **consistent, predictable output** across all 20 styles.
 
 ---
 
